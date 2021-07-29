@@ -17,7 +17,7 @@ print('Hello world!')
 print("Hello Python!!")
 print("Hello AI!!!")
 ```
-*Homework*
+* *Homework*
 Using only one print() method, try to display two or more lines.
 ```python
 # Exercise for Displaying Text: Homework Solution
@@ -43,7 +43,7 @@ y = 3
 z = x%y
 print (z)
 ```
-*Homework*
+* *Homework*
 Try to find a way to raise one number to the power of another.
 **Hint:** Try using the pow() built-in function for Python.
 ```python
@@ -65,7 +65,7 @@ L4 = [[2, 9, -5], [-1, 0, 4], [3, 1, 2]]
 import numpy as np
 nparray = np.zeros((5,5))
 ```
-*Homework*
+* *Homework*
 Try to find the mean of all the numbers in the L4 list. There are multiple solutions.
 **Hint:** The simplest solution makes use of the NumPy library. Check out some
 of its functions here: https://docs.scipy.org/doc/numpy/reference/
@@ -91,7 +91,7 @@ elif a == 0:
 else:
     print('a is lower than 0')
 ```
-*Homework*
+* *Homework*
 Build a condition that will check if a number is divisible by 3 or not.
 **Hint:** You can use a mathematical expression called modulo, which when used,
 returns the remainder from the division between two numbers. In Python, modulo
@@ -131,12 +131,13 @@ for row in L4:
     for element in row:
         print(element)
 ```
-*Homework*
+* *Homework*
 Build both for and while loops that can calculate the factorial of a positive integer
 variable.
 **Hint:** Factorial is a mathematical function that returns the product of all positive
 integers lower or equal to the argument of this function. This is the equation:
 f(n) = n * (n – 1) * (n – 2) *...* 1
+
 Where:
 * f(n) – the factorial function
 * n – the integer in question, the factorial of which we are searching for
@@ -170,7 +171,7 @@ def division(a, b):
 d = division(3, 5)
 print(d)
 ```
-*Homework*
+* *Homework*
 Build a function to calculate the distance between two points on an x,y plane:
 one with coordinates x1 and y1, and the other with coordinates x2 and y2.
 ```python
@@ -202,7 +203,7 @@ bot = Bot(3, 4)
 bot.move(2, -1)
 print(bot.posx, bot.posy)
 ```
-*Homework*
+* *Homework*
 Your final challenge will be to build a very simple car class. As arguments, a car
 object should take the maximum velocity at which the car can move (unit in m/s), as
 well as the acceleration at which the car is accelerating (unit in m/s2). I also challenge
