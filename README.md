@@ -18,7 +18,7 @@ print("Hello Python!!")
 print("Hello AI!!!")
 ```
 * *Homework*
-* 
+
 Using only one print() method, try to display two or more lines.
 ```python
 # Exercise for Displaying Text: Homework Solution
