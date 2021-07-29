@@ -13,3 +13,10 @@ x = x / 3   #X /= 3
 y = 3
 x += y
 print(x)
+
+X = 10
+y = 3
+
+z = x%y
+
+print (z)
