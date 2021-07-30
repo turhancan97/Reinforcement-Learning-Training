@@ -466,7 +466,7 @@ df.to_excel('results.xlsx', sheet_name = 'Result', index = False)
 - AI for Sales and Advertising
 	> Problem to Solve
 
-**Click Here for the Application**
+[**Click Here for the Application**](https://github.com/turhancan97/Reinforcement-Learning-Training/tree/main/AI%20for%20Sales%20and%20Advertising)
 - Q-Learning
 	> Q-Learning Pseudocode
 
@@ -529,7 +529,7 @@ while True:
 - AI for Logistics
 	> Robotics Application - Problem to solve
 
-**Click Here for the Application**
+[**Click Here for the Application**](https://github.com/turhancan97/Reinforcement-Learning-Training/tree/main/AI%20for%20Logistics)
 - Deep Q-Learning
 	> Deep Learning Theory and using with Q-Learning
 
@@ -598,7 +598,7 @@ print(np.mean(error))
 - AI for Business
 	> Business Application
 	
-**Click Here for the Application**
+[**Click Here for the Application**](https://github.com/turhancan97/Reinforcement-Learning-Training/tree/main/AI%20for%20Business)
 - Deep Convolutional Q-Learning
 	> Basics of CNN
 	
@@ -684,4 +684,4 @@ else:
 - AI for Games
 	> Game Application
 	
-**Click Here for the Application**
+[**Click Here for the Application**](https://github.com/turhancan97/Reinforcement-Learning-Training/tree/main/AI%20for%20Games)
