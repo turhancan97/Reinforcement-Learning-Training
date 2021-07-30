@@ -348,10 +348,15 @@ print('Conclusion: Best machine is machine number ' + str(np.argmax(nSelected) +
 ```
 *Output:*
 > Machine number 1 was selected 8131.0 times
+> 
 >Machine number 2 was selected 101.0 times
+>
 >Machine number 3 was selected 911.0 times
+>
 >Machine number 4 was selected 613.0 times
+>
 >Machine number 5 was selected 244.0 times
+>
 >Conclusion: Best machine is machine number 1
 
 **Thompson Sampling vs. the Standard Model:**
@@ -432,23 +437,36 @@ df.to_excel('results.xlsx', sheet_name = 'Result', index = False)
 ```
 *Output:*
 > N = 200 d = 3 range = (0.0, 0.1) | result Thompson Sampling = 666 result Standard solution = 577
+> 
 >N = 200 d = 4 range = (0.0, 0.1) | result Thompson Sampling = 547 result Standard solution = 476
+>
 >N = 200 d = 5 range = (0.0, 0.1) | result Thompson Sampling = 483 result Standard solution = 415
+>
 >N = 200 d = 6 range = (0.0, 0.1) | result Thompson Sampling = 422 result Standard solution = 388
+>
 >N = 200 d = 7 range = (0.0, 0.1) | result Thompson Sampling = 373 result Standard solution = 348
+>
 >N = 200 d = 8 range = (0.0, 0.1) | result Thompson Sampling = 314 result Standard solution = 326
+>
 >N = 200 d = 9 range = (0.0, 0.1) | result Thompson Sampling = 320 result Standard solution = 265
+>
 >N = 200 d = 3 range = (0.0, 0.3) | result Thompson Sampling = 786 result Standard solution = 658
+>
 >N = 200 d = 4 range = (0.0, 0.3) | result Thompson Sampling = 714 result Standard solution = 623
+>
 >N = 200 d = 5 range = (0.0, 0.3) | result Thompson Sampling = 634 result Standard solution = 522
+>
 >N = 200 d = 6 range = (0.0, 0.3) | result Thompson Sampling = 594 result Standard solution = 495
+>
 >N = 200 d = 7 range = (0.0, 0.3) | result Thompson Sampling = 496 result Standard solution = 415
+>
 >N = 200 d = 8 range = (0.0, 0.3) | result Thompson Sampling = 486 result Standard solution = 373
+>
 >N = 200 d = 9 range = (0.0, 0.3) | result Thompson Sampling = 469 result Standard solution = 352
 - AI for Sales and Advertising
 	> Problem to Solve
 
-**Click Here for the Application:**
+**Click Here for the Application**
 - Q-Learning
 	> Q-Learning Pseudocode
 
@@ -511,7 +529,7 @@ while True:
 - AI for Logistics
 	> Robotics Application - Problem to solve
 
-**Click Here for the Application:**
+**Click Here for the Application**
 - Deep Q-Learning
 	> Deep Learning Theory and using with Q-Learning
 
@@ -576,11 +594,11 @@ print(np.mean(error))
 - AI for Autonomous Vehicle
 	> Self Driving Car Application
 	
-**Click Here for the Application:**
+**Click Here for the Application**
 - AI for Business
 	> Business Application
 	
-**Click Here for the Application:**
+**Click Here for the Application**
 - Deep Convolutional Q-Learning
 	> Basics of CNN
 	
@@ -666,4 +684,4 @@ else:
 - AI for Games
 	> Game Application
 	
-**Click Here for the Application:**
+**Click Here for the Application**
