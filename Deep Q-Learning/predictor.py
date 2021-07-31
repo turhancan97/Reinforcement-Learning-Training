@@ -7,8 +7,8 @@ import keras
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from keras.layers import Dense, Dropout
-from keras.models import Sequential
-from keras.optimizers import Adam
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.optimizers import Adam
 
 # Importing the dataset
 dataset = pd.read_csv('kc_house_data.csv')
